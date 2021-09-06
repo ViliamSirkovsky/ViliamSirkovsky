@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ViliamSirkovsky
-- 👀 I’m interested in .html , .css
-- 🌱 I’m currently learning .html
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: vilsirko@gmail.com
+ - 👋 Hi, I’m @ViliamSirkovsky
+ - 👀 I’m interested in .html , .css
+ - 🌱 I’m currently learning .html
+ - 📫 How to reach me: vilsirko@gmail.com
 
 <!---
 ViliamSirkovsky/ViliamSirkovsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
